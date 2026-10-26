@@ -406,9 +406,11 @@ IF Malicious Activity Confirmed
 THEN
     Block IPchnology for modern Security Operations Centers (SOCs). It combines orchestration, automation, and incident response capabilities to improve security efficiency and reduce response times.
 
+```
+
 Key takeaways:
 
-
+```bash
 ✓ SOAR centralises security operations
 ✓ Orchestration connects security tools
 ✓ Automation reduces manual effort

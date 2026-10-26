@@ -408,7 +408,7 @@ THEN
 
 Key takeaways:
 
-```bash
+
 ✓ SOAR centralises security operations
 ✓ Orchestration connects security tools
 ✓ Automation reduces manual effort
